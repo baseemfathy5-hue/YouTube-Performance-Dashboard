@@ -1,0 +1,4 @@
+# Ignore Power BI cache and temp files
+*.tmp
+*.bak
+*.cache
