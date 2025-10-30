@@ -21,6 +21,9 @@ Country-wise engagement distribution
 
 Channel comparison by dislikes and total engagement
 
+## 📷 Dashboard Preview
+![YouTube Performance Dashboard](youtube.png)
+
 📈 Key Metrics
 
 Total Views: 391B
